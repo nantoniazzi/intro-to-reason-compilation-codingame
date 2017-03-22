@@ -7,3 +7,5 @@ The OCaml compiler is package manager-agnostic. [OPAM](https://opam.ocaml.org) i
 Usually we'd write a package.json here and let you do `npm install` to install all the dependencies into `./node_modules`; for the sake of simplicity, we're gonna hardcode a dependency (check it out, it's only two files). You get the idea.
 
 We'll also make the corresponding additions to `.merlin`.
+
+@Run[]({"stubs": ["step6/src/test.re", "step6/src/myDep.re", "step6/src/myDep2.re", "step6/run.sh})

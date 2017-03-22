@@ -11,3 +11,5 @@ We're gonna use real third-party dependencies this time around. Check the new pa
 Making this work is surprisingly simple. See the updated `run.sh`. We've also made modifications to `.gitignore` and `.merlin`.
 
 **Make sure you read the compiled output**. Yes, read it. Trust us on this one!
+
+@Run[]({"stubs": ["step7/src/test.re", "step7/src/myDep.re", "step7/src/myDep2.re", "step7/run.sh})
