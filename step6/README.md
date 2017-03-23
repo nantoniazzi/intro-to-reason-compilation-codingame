@@ -8,4 +8,4 @@ Usually we'd write a package.json here and let you do `npm install` to install a
 
 We'll also make the corresponding additions to `.merlin`.
 
-@Run[""]({"stubs": ["step6/src/test.re", "step6/src/myDep.re", "step6/src/myDep2.re", "step6/run.sh}, "command":"/bin/bash /project/target/step6/run.sh")
+@["Run"]({"stubs": ["step6/src/test.re", "step6/src/myDep.re", "step6/src/myDep2.re", "step6/run.sh}, "command":"/bin/bash /project/target/step6/run.sh")
