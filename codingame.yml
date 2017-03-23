@@ -19,5 +19,5 @@ plan:
 projects:
   reason:
     root: /project
-    buildCommand: ls -la --color /project && id && chmod 777 /project/target
+    buildCommand: sudo chmod 777 /project/target
     runner: nantoniazzi/reason:latest
