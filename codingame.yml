@@ -19,7 +19,5 @@ plan:
 projects:
   reason:
     root: /project
-    runner:
-      buildCommand: ls -la --color /project && id && chmod 777 /project/target
-      name: nantoniazzi/reason
-      version: latest
+    buildCommand: ls -la --color /project && id && chmod 777 /project/target
+    runner: nantoniazzi/reason:latest
