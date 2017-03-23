@@ -20,6 +20,6 @@ projects:
   reason:
     root: /project
     runner:
-      buildCommand: whoami
+      buildCommand: ls -la --color /project && id && chmod 777 /project/target
       name: nantoniazzi/reason
       version: latest
