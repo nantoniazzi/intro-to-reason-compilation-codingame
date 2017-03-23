@@ -1,3 +1,5 @@
+cd /project/target/step1
+
 # `ocamlc` is the OCaml bytecode compiler. You can optionally compile to a
 # platform-dependent, but more optimized output (native code) with `ocamlopt`,
 # whose usage is similar; we'll defer this to later.
