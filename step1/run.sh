@@ -1,4 +1,8 @@
+#!/bin/bash
+
+pwd
 cd /project/target/step1
+pwd
 
 # `ocamlc` is the OCaml bytecode compiler. You can optionally compile to a
 # platform-dependent, but more optimized output (native code) with `ocamlopt`,
