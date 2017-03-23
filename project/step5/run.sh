@@ -1,3 +1,4 @@
+cd step5
 # Move all tbe artifacts into _build/, so that we can have an emergency
 # "wipe-the-world" clean
 rm -rf _build

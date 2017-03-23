@@ -1,3 +1,4 @@
+cd step3
 # Before automate the compile step dependencies ordering, let's clean up the
 # artifacts. We're naively cleaning all the artifacts before every compilation
 # to make sure that, when the compilation order changes because of a dependency

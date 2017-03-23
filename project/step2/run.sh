@@ -1,3 +1,4 @@
+cd step2
 # Explanations of compiler flags (when in doubt, there's always `ocamlc --help`)
 
 # -pp: before processing the source file, pass it through a preprocessor. This

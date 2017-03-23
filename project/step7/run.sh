@@ -1,5 +1,4 @@
-# Don't forget to run `npm install` beforehand!
-
+cd step7
 # See previous step for the explanations of compiling & linking. Most of these
 # lines are the same.
 
@@ -48,3 +47,6 @@ done
 
 # Are you ready to run your JS output?
 node ./_build/self/test.js
+
+# display the content of the generated file
+echo "CG> open -s /project/target/step7/_build/self /test.js"

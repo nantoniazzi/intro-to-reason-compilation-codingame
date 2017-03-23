@@ -1,3 +1,4 @@
+cd step4
 # See Step 3 for more info on these commands
 
 # clean

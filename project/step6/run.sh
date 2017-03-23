@@ -1,3 +1,4 @@
+cd step6
 # See previous step for the explanations of compiling & linking.
 
 # Clean
