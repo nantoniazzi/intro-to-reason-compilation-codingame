@@ -20,5 +20,6 @@ projects:
   reason:
     root: /project
     runner:
+      buildCommand: whoami
       name: nantoniazzi/reason
       version: latest
