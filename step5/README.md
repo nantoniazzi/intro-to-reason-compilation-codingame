@@ -8,4 +8,4 @@ their source code
 
 Additionally, we'll expand the naive compilation in `run.sh` into something slightly more sophisticated, and make the corresponding changes in `.merlin`.
 
-@["Run"]({"stubs": ["step5/src/test.re", "step5/src/myDep.re", "step5/src/myDep2.re", "step5/run.sh], "command":"/bin/bash /project/target/step5/run.sh"})
+@["Run"]({"stubs": ["step5/src/test.re", "step5/src/myDep.re", "step5/src/myDep2.re", "step5/run.sh"], "command":"/bin/bash /project/target/step5/run.sh"})
