@@ -18,7 +18,7 @@ plan:
 
 projects:
   reason:
+    root: /project
     runner:
-      root: /project
       name: nantoniazzi/reason
       version: latest
