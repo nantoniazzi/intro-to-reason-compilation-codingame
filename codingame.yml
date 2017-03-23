@@ -1,5 +1,5 @@
 title: Introduction to Reason Compilation
-about: README.md
+about: project/README.md
 plan:
 - title: Step 1
   statement: step1/README.md
@@ -19,6 +19,6 @@ plan:
 projects:
   reason:
     runner:
-      root: /
+      root: /project
       name: nantoniazzi/reason
       version: latest
