@@ -4,4 +4,4 @@ OCaml's compiler has a nice, flexible pre-processing step described in `run.sh`.
 
 We start with a shell file, `run.sh`, which, upon execution, compiles & runs the output.
 
-@["Run"]({"stubs": ["step1/src/test.re", "step1/run.sh"], "command":"whoami && ls -la --color / && ls -la --color /project && ls -la --color /project/target && ls -la --color /project/target/step1"})
+@["Run"]({"stubs": ["step1/src/test.re", "step1/run.sh"], "command":"id && ls -la --color / && ls -la --color /project && ls -la --color /project/target && ls -la --color /project/target/step1"})
