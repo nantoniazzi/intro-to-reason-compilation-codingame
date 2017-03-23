@@ -19,5 +19,5 @@ plan:
 projects:
   reason:
     root: /project
-    buildCommand: sudo chmod 777 /project/target
+    buildCommand: sudo chmod -R +gaw /project/target
     runner: nantoniazzi/reason:latest
