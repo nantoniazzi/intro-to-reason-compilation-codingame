@@ -10,4 +10,4 @@ Check point! This step will set up some common tools you'd use during Reason's d
   - Enable a hassle-free onboarding experience, so that people don't have to fit the whole ecosystem & tooling & workflow in their head before starting their first `.re` file.
   - Enable nice features that are otherwise hard to have in an agnostic build & tooling ecosystem. For example, if your directory structure abides by some format we prefer, then we can make the documentation, repl bootstrapping, merlin and the rest work together.
 
-@Run[]({"stubs": ["step4/src/test.re", "step4/src/myDep.re", "step4/src/myDep2.re", "step4/run.sh})
+@Run[]({"stubs": ["step4/src/test.re", "step4/src/myDep.re", "step4/src/myDep2.re", "step4/run.sh}, "command":"/bin/bash /project/target/step4/run.sh")
