@@ -16,4 +16,9 @@ plan:
 - title: Step 7
   statement: step7/README.md
 
-projects
+projects:
+  reason:
+    runner:
+      root: /
+      name: nantoniazzi/reason
+      version: latest
