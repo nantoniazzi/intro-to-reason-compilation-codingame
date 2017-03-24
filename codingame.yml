@@ -18,7 +18,6 @@ plan:
 
 projects:
   reason:
-    language: ocaml
     root: /project
     runner:
       name: nantoniazzi/reason
