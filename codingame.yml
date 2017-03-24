@@ -18,9 +18,8 @@ plan:
 
 projects:
   reason:
+    language: ocaml
     root: /project
-#    buildCommand: sudo chmod -R ga+w /project/target
-#    runner: nantoniazzi/reason:latest
     runner:
       name: nantoniazzi/reason
       version: latest
